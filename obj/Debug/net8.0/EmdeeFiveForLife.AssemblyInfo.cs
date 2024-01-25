@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmdeeFiveForLife")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7115f6f62d68afcbee8734e48da642aa2b70eed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8a8293ebb1574dea231c628036c57d45fb23f39")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmdeeFiveForLife")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmdeeFiveForLife")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

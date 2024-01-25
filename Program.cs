@@ -40,8 +40,8 @@ class Program
     }
 
 
-    #region METHODS
-    public static string GetStringToEncode(string htmlString, string patternToReplace, int lengthOfStringToEncode)
+    #region SERVICES
+    private static string GetStringToEncode(string htmlString, string patternToReplace, int lengthOfStringToEncode)
     {
         int startIndexOfPattern = htmlString.IndexOf(patternToReplace);
         int patternSpan = patternToReplace.Length;
@@ -57,7 +57,7 @@ class Program
         return new string(stringToGenerateMd5Hash);
     }
 
-    public static string GetMd5Hash(string stringToEncode)
+    private static string GetMd5Hash(string stringToEncode)
     {
         MD5 md5 = MD5.Create();
         byte[] inputBytes = Encoding.UTF8.GetBytes(stringToEncode);
