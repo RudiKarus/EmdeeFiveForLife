@@ -1,0 +1,14 @@
+/home/b0b24ce0/source/HTB/EmdeeFiveForLife/bin/Debug/net8.0/EmdeeFiveForLife
+/home/b0b24ce0/source/HTB/EmdeeFiveForLife/bin/Debug/net8.0/EmdeeFiveForLife.deps.json
+/home/b0b24ce0/source/HTB/EmdeeFiveForLife/bin/Debug/net8.0/EmdeeFiveForLife.runtimeconfig.json
+/home/b0b24ce0/source/HTB/EmdeeFiveForLife/bin/Debug/net8.0/EmdeeFiveForLife.dll
+/home/b0b24ce0/source/HTB/EmdeeFiveForLife/bin/Debug/net8.0/EmdeeFiveForLife.pdb
+/home/b0b24ce0/source/HTB/EmdeeFiveForLife/obj/Debug/net8.0/EmdeeFiveForLife.GeneratedMSBuildEditorConfig.editorconfig
+/home/b0b24ce0/source/HTB/EmdeeFiveForLife/obj/Debug/net8.0/EmdeeFiveForLife.AssemblyInfoInputs.cache
+/home/b0b24ce0/source/HTB/EmdeeFiveForLife/obj/Debug/net8.0/EmdeeFiveForLife.AssemblyInfo.cs
+/home/b0b24ce0/source/HTB/EmdeeFiveForLife/obj/Debug/net8.0/EmdeeFiveForLife.csproj.CoreCompileInputs.cache
+/home/b0b24ce0/source/HTB/EmdeeFiveForLife/obj/Debug/net8.0/EmdeeFiveForLife.dll
+/home/b0b24ce0/source/HTB/EmdeeFiveForLife/obj/Debug/net8.0/refint/EmdeeFiveForLife.dll
+/home/b0b24ce0/source/HTB/EmdeeFiveForLife/obj/Debug/net8.0/EmdeeFiveForLife.pdb
+/home/b0b24ce0/source/HTB/EmdeeFiveForLife/obj/Debug/net8.0/EmdeeFiveForLife.genruntimeconfig.cache
+/home/b0b24ce0/source/HTB/EmdeeFiveForLife/obj/Debug/net8.0/ref/EmdeeFiveForLife.dll
