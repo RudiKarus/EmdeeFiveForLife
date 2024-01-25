@@ -12,3 +12,4 @@
 /home/b0b24ce0/source/HTB/EmdeeFiveForLife/obj/Debug/net8.0/EmdeeFiveForLife.pdb
 /home/b0b24ce0/source/HTB/EmdeeFiveForLife/obj/Debug/net8.0/EmdeeFiveForLife.genruntimeconfig.cache
 /home/b0b24ce0/source/HTB/EmdeeFiveForLife/obj/Debug/net8.0/ref/EmdeeFiveForLife.dll
+/home/b0b24ce0/source/HTB/EmdeeFiveForLife/obj/Debug/net8.0/EmdeeFiveForLife.sourcelink.json
